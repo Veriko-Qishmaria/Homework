@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.img{
+background-image: url(ai-governance.jpeg);
+color: rgb(255, 255, 255);
+height: 350px;
+font-weight: cover;
+}
+    .end{
+        font-size: 17px;
+        font-family: serif;
+        align-items: end;
+        border: none; 
+        background-color: white;
+
+    }
+        .erti{
+            display: flex;
+            justify-content: center;
+            font-size: 25px;
+            font-family: serif;
+        }
+        .text-center{
+            display: flex;
+            justify-content: center;
+            font-size: 18px;
+            color: rgb(255, 255, 255);
+            font-family: serif;
+        }
+        .card{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                width: 125px; 
+                height: 400px; 
+                background-color: rgb(255, 255, 255); 
+        }
+        .es{
+            padding-right: 200px;
+            text-align: start;
+            font-size: 15px;
+            font-family: serif;
+}
+            .svla2{
+                width: 25rem;
+                height: 20rem;
+            }
+
+            .conteiner{
+                height: 25rem;
+                background: linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(74, 83, 212) 50%);
+            
+            }
+
+            .mesame{
+                font-size: 15px;
+                color: white;
+                font-family: helvetica;
+
+            }
+.dd{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 8rem;
+    height: 8rem;
+
+}
+.esec{
+    color: white;
+   font-family: serif;
+}
+.qqqq{
+    color: white;
+   
+}
+    .poto{
+        width: 20rem;
+        height: 20rem;
+    }
+    .poto1{
+        width: auto;
+        height: 520px;
+    }
+.box{
+    display: flex;
+    justify-content: center;
+flex-wrap: wrap;
+
+}
+.u-text{
+    font-size: 40px;
+    text-align: center;
+    font-family: serif;
+    font-weight: 800;
+    color: white;
+}
+        .vero{
+            font-size: 23px;
+            font-family: serif;
+            text-align: justify;
+        }
+        .button{
+            font-size: 20px;
+            font-family: serif;
+            background-color: #b9dfdf;
+            border-color: white;
+            display: flex;
+            justify-content: center;
+            margin: 45px auto 32px;
+            font-weight: 700;
+
+        }
